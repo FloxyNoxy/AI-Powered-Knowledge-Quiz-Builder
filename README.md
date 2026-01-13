@@ -90,7 +90,13 @@ You need a Google Gemini API key to generate quizzes. Here are three ways to set
 # Method 1: .env File
  - Get your API key from Google AI Studio: https://aistudio.google.com/app/api-keys
 
-Add your API key to the .env file:
+ - Create .env file in root:
+
+**Linuz/MacOS**: `touch .env`
+
+**Windows**: `type nul > .env`
+
+ - Add your API key to the .env file:
 
 `GEMINI_API_KEY=your_actual_api_key_here`
 
