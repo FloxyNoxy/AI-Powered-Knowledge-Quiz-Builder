@@ -78,33 +78,17 @@ JSON Storage over Database
 
 2. Navigate to the project folder
 
-`cd ai-quiz-generator`
+` cd AI-Powered-Knowledge-Quiz-Builder`
 
-3. Create Virtual Environment (Recommended)
-
-`python -m venv venv`
-
-4. Activate it
-
-**On macOS/Linux:**
-
-`source venv/bin/activate`
-
-**On Windows:**
-
-`venv\Scripts\activate`
-
-5. Install Dependencies
+3. Install Dependencies
 
 `pip install -r requirements.txt`
 
 # API Key Setup
 You need a Google Gemini API key to generate quizzes. Here are three ways to set it up:
 
-# Method 1: .env File (Recommended)
+# Method 1: .env File
  - Get your API key from Google AI Studio: https://aistudio.google.com/app/api-keys
-
- - Create a .env file in the project root:
 
 Add your API key to the .env file:
 
