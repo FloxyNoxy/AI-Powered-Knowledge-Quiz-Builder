@@ -74,7 +74,7 @@ JSON Storage over Database
 # Installation
 1. Clone the Repository
 
-`git clone https://github.com/yourusername/ai-quiz-generator.git`
+`git clone https://github.com/FloxyNoxy/AI-Powered-Knowledge-Quiz-Builder.git`
 
 2. Navigate to the project folder
 
